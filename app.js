@@ -18,7 +18,12 @@ app.use( cors() );
 // Config Routes
 app.use( '/api', apiRoutes );
 
-// Load databe from JSON file
+// Server build React
+// serve static files from react app 
+app.use(express.static(path.join(__dirname, 'frontend/build')));
+app.get('*', (req, res) =>{
+	res.sendFile(path.join(__dirname+'/frontend/build/index.html'));
+});
 
 app.listen( puerto, () => {
     console.log( `Server listening in http://localhost:${ puerto }`.america );

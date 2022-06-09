@@ -74,7 +74,7 @@ const CmpHeader = () => {
                                 {pages.map(page => (
                                     <MenuItem key={`${page.name} ${ page.url }`} onClick={handleCloseNavMenu}>
                                         {/* <Typography variant='a' href='/da'>{ page.name }</Typography> */}
-                                        <Link underline='none' href={ page.url } color='#fff'>{page.name}</Link>
+                                        <Link underline='none' href={ page.url } color='black'>{page.name}</Link>
                                     </MenuItem>
                                 ))}
                             </Menu>
