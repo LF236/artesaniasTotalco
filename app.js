@@ -5,7 +5,7 @@ const app = express();
 const path = require( 'path' );
 const cors = require( 'cors' );
 const apiRoutes = require( './routes/apiRoutes' );
-const puerto = process.env.PORT;
+const puerto = process.env.PORT || 3000;;
 
 // Route public
 const public_path = path.resolve( __dirname + '/public' );
