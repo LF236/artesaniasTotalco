@@ -1,0 +1,210 @@
+[
+    {
+        "id": "dfe987ee-1c95-48ab-9992-2030d7513357",
+        "precio": "800",
+        "ruta": "ramos_boda/800.jpg",
+        "tipo": "boda",
+        "oferta": true
+    },
+    {
+        "id": "ae6d0348-d420-45fb-802a-82cb741c4e43",
+        "precio": "815",
+        "ruta": "ramos_boda/815.jpg",
+        "tipo": "boda"
+    },
+    {
+        "id": "e9ad6f18-cc53-4dd9-9b21-44792269dd45",
+        "precio": "850",
+        "ruta": "ramos_boda/850.jpg",
+        "tipo": "boda"
+    },
+    {
+        "id": "eb486331-3f32-4eaf-afc3-0c402a783cdc",
+        "precio": "900",
+        "ruta": "ramos_boda/900.jpg",
+        "tipo": "boda",
+        "oferta": true
+    },
+    {
+        "id": "6ac7b297-d70c-44a2-b1d5-9808119296ec",
+        "precio": "955",
+        "ruta": "ramos_boda/955.jpg",
+        "tipo": "boda"
+    },
+    {
+        "id": "b731a356-b7c5-4cae-a2e1-5056d6ce111d",
+        "precio": "965",
+        "ruta": "ramos_boda/965.png",
+        "tipo": "boda"
+    },
+    {
+        "id": "c011e185-6d84-4956-9d03-cc2ebfe5cda0",
+        "precio": "970",
+        "ruta": "ramos_boda/970.jpg",
+        "tipo": "boda"
+    },
+    {
+        "id": "1681c44f-b00f-49b9-bfc6-db088cd8a83e",
+        "precio": "980",
+        "ruta": "ramos_boda/980.jpg",
+        "tipo": "boda",
+        "oferta": true
+    },
+    {
+        "id": "c89ccc51-556e-445d-b997-c6116cc20f65",
+        "precio": "990",
+        "ruta": "ramos_boda/990.jpg",
+        "tipo": "boda"
+    },
+    {
+        "id": "ef1807a3-a01a-4be1-b4e2-593c723c199b",
+        "precio": "1000",
+        "ruta": "ramos_boda/1000.jpg",
+        "tipo": "boda"
+    },
+    {
+        "id": "b6175bce-671a-46ff-a416-d20fe17aee62",
+        "precio": "430",
+        "ruta": "ramos_presentacion/430.webp",
+        "tipo": "presentacion"
+    },
+    {
+        "id": "64bd8e61-5961-47af-a9b7-087da90bb1bf",
+        "precio": "490",
+        "ruta": "ramos_presentacion/490.jpg",
+        "tipo": "presentacion",
+        "oferta": true
+    },
+    {
+        "id": "71e99e54-f0a6-4463-8d25-7264e288c8cd",
+        "precio": "500",
+        "ruta": "ramos_presentacion/500.jpg",
+        "tipo": "presentacion"
+    },
+    {
+        "id": "a5054440-ca2c-49e2-847b-403cbe1d8130",
+        "precio": "520",
+        "ruta": "ramos_presentacion/520.jpg",
+        "tipo": "presentacion"
+    },
+    {
+        "id": "a5cdc20f-c557-4f76-b887-a7844be5ddb1",
+        "precio": "550",
+        "ruta": "ramos_presentacion/550.jpg",
+        "tipo": "presentacion",
+        "oferta": true
+    },
+    {
+        "id": "d98ebc02-ed48-4a41-9f51-700bb7bcc245",
+        "precio": "595",
+        "ruta": "ramos_presentacion/595.jpg",
+        "tipo": "presentacion"
+    },
+    {
+        "id": "c21b2f73-3620-468c-82be-c8f526ca33e6",
+        "precio": "600",
+        "ruta": "ramos_presentacion/600.jpg",
+        "tipo": "presentacion"
+    },
+    {
+        "id": "0ccce1f1-b668-4bac-8ac2-60f0a3fe5654",
+        "precio": "600",
+        "ruta": "ramos_presentacion/600.webp",
+        "tipo": "presentacion",
+        "oferta": true
+    },
+    {
+        "id": "761c6dcf-c318-46d7-9dd3-12444131f8c2",
+        "precio": "630",
+        "ruta": "ramos_presentacion/630.jpeg",
+        "tipo": "presentacion"
+    },
+    {
+        "id": "269b5c48-ebd7-427e-8386-9f3007cababf",
+        "precio": "700",
+        "ruta": "ramos_presentacion/700.jpeg",
+        "tipo": "presentacion",
+        "oferta": true
+    },
+    {
+        "id": "e08529a6-cb09-4175-b647-a40b7761c5ee",
+        "precio": "1000",
+        "ruta": "ramos_xv/1000.jpg",
+        "tipo": "ramos_xv",
+        "oferta": true
+    },
+    {
+        "id": "cb1dfaec-7adb-4d16-a4de-1322fb07d531",
+        "precio": "490",
+        "ruta": "ramos_xv/490.jpg",
+        "tipo": "ramos_xv"
+    },
+    {
+        "id": "13dcf2c6-6821-4230-a722-aa51ff65a1ae",
+        "precio": "550",
+        "ruta": "ramos_xv/550.jpg",
+        "tipo": "ramos_xv"
+    },
+    {
+        "id": "01c0c583-56d7-40db-af15-9925719b815b",
+        "precio": "586",
+        "ruta": "ramos_xv/586.jpg",
+        "tipo": "ramos_xv",
+        "oferta": true
+    },
+    {
+        "id": "43770f29-ed1c-4a35-b4ce-0612113b4e66",
+        "precio": "600",
+        "ruta": "ramos_xv/600.jpg",
+        "tipo": "ramos_xv"
+    },
+    {
+        "id": "6e7a2c5d-51e6-47e2-8fb8-316e3e7f2964",
+        "precio": "620",
+        "ruta": "ramos_xv/620.jpg",
+        "tipo": "ramos_xv",
+        "oferta": true
+    },
+    {
+        "id": "43cb071e-ba1f-423b-8c6c-98f54ba1b4de",
+        "precio": "625",
+        "ruta": "ramos_xv/625.jpg",
+        "tipo": "ramos_xv"
+    },
+    {
+        "id": "c8662d92-5d42-452a-8043-1b0e1e6732a0",
+        "precio": "640",
+        "ruta": "ramos_xv/640.jpg",
+        "tipo": "ramos_xv"
+    },
+    {
+        "id": "4682d6a1-f5cb-42af-a5ad-d0ac863d9dab",
+        "precio": "645",
+        "ruta": "ramos_xv/645.jpg",
+        "tipo": "ramos_xv"
+    },
+    {
+        "id": "acb2303c-c008-4c2f-a70a-0b2dbd813a5f",
+        "precio": "680",
+        "ruta": "ramos_xv/680.jpg",
+        "tipo": "ramos_xv"
+    },
+    {
+        "id": "1db50889-ad67-41e8-98c2-30f26558a937",
+        "precio": "715",
+        "ruta": "ramos_xv/715.jpg",
+        "tipo": "ramos_xv"
+    },
+    {
+        "id": "221848e8-5455-4f28-9733-970ef9040a7e",
+        "precio": "750",
+        "ruta": "ramos_xv/750.jpg",
+        "tipo": "ramos_xv"
+    },
+    {
+        "id": "96e5c132-2dbd-4ea9-8bf1-19293adaa0b8",
+        "precio": "860",
+        "ruta": "ramos_xv/860.jpg",
+        "tipo": "ramos_xv"
+    }
+]
